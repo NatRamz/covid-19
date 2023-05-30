@@ -21,5 +21,7 @@
       <valueRequired>true</valueRequired>
     </control>
   </widget>
+  <widget <control name="CountryFilter" action="applyFilter" target="*" targetProperty="[CountryRegion].[H1].[CountryRegion]" location="dashboard" type="filter" label="Country" value="USA"></control>>
+  </widget>
 </dashboard>
 </Document></Export>
